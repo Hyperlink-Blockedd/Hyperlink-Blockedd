@@ -1,15 +1,9 @@
-<h1 align="center">🔷 [Hyperlink Blocked]</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
+<h1 align="center">[Hyperlink Blocked]</h1>
+<h3 align="center">hago cosas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperlink-blockedd&label=Profile%20views&color=0e75b6&style=flat" alt="hyperlink-blockedd" /> </p>
 
-- 🌱 Estoy estudiando **Java, XML, HTML, CSS, Godot**
-
-- 👨‍💻 Mis proyectos [https://github.com/Hyperlink-Blockedd?tab=repositories](https://github.com/Hyperlink-Blockedd?tab=repositories)
-
-- 📫 Pregúntame **kjsddkja@gmail.com**
-
-- 🔷 Dato curioso **No hago proyectos aún**
+qué haces aquí
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
